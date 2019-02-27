@@ -24,7 +24,7 @@ nav.horizontal, footer, article {
 /* Comic Book Sheet Styles */
 section#sheet {
 	size: 6in;
-	margin: 0in 0in auto auto;
+	margin: 0in auto;
 }
 img.size1 {
 	width: 5in;
